@@ -1,0 +1,28 @@
+{
+  "name": "express-server-testing",
+  "version": "1.0.0",
+  "description": "An ExpressJS App for Testing on Server",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lkjatinc669/Express-Server-Testing.git"
+  },
+  "keywords": [
+    "Testing",
+    "ExpressJS",
+    "Server",
+    "App"
+  ],
+  "author": "lkjatinc669",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lkjatinc669/Express-Server-Testing/issues"
+  },
+  "homepage": "https://github.com/lkjatinc669/Express-Server-Testing#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
